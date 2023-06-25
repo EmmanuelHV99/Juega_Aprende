@@ -1,0 +1,30 @@
+debe ser precisa, objetiva, analítica, metodología y racional
+es la ciencia básica que estudia a los objetos y fenómenos de la naturaleza
+todo ente, ya sea material o inmaterial que se manifiesta en el espacio
+objeto más elemental de la naturaleza, en el cual se ubican los demás objetos
+conjunto de uno o más objetos que se considera como una sola cosa, tomando en cuenta el espacio que este ocupa
+región que separa al sistema de sus alrededores
+cosiste en el cambio de las características de uno o más sistemas
+las matemáticas
+representación formal de un atributo de algún sistema o fenómeno
+masa, longitud, tiempo
+es la aseveración de un comportamiento elemental y primario de la naturaleza que, sin importar las circunstancias, sistemas o lugares en nuestro universo, ha de cumplirse invariablemente
+todo sistema que queda libre de fuerzas y confinamientos externos tomara la configuración en la que contenga la mínima energía posible
+establecimiento de la relación que existe entre las diversas cantidades físicas de un sistema o de un fenómeno
+aquella de valor fijo y relacionada a un fenómeno o clase de objetos
+aquel valor fijo relativo a un comportamiento especifico o asignado a un cierto tipo de objeto u objetos
+calor especifico, punto de fusión, permitividad eléctrica
+aquella aseveración no comprobada
+consiste en la descripción, ya sea geométrica, grafica, esquemática, como un diagrama o dibujo
+modelo atómico de Bohr, modelo del sistema solar, modelo de los enlaces iónicos
+tiene la pretensión de constituirse como ley o como una teoría, sin embargo, no llega a serlo a causa de carecer de comprobabilidad
+es el conjunto de cantidades físicas, principios, hipótesis, leyes físicas, modelos y postulados que se refieren a cierto tipo de sistemas y fenómenos
+mecánica clásica, electromagnetismo, termodinámica
+patrón de comparación que nos permite cuantificar una cantidad física
+es un conjunto de unidades, una para cada cantidad física
+sistema internacional, sistema gaussiano, inglés, técnico
+metro, kilogramo, segundo
+que se puede expresar mediante una combinación de las unidades básicas
+son la combinación de potencias de las unidades básicas de longitud, de masa y de tiempo
+es un conjunto de datos ordenados
+cada dato es un componente, el número de componentes es un vector se conoce como dimensión del vector

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: dfd405fc5a2b1fb43ad76d1e604141d6
+  - enabled: 1
+    path: Assets/Scenes/Laberinto1.unity
+    guid: aa95325c90dd1634bb61767e82538286
+  - enabled: 1
+    path: Assets/Scenes/Laberinto2.unity
+    guid: 1424e9bed44f4e3478d760f97f3e71a3
+  - enabled: 1
+    path: Assets/Scenes/Laberinto3.unity
+    guid: 533baa8b2dc614c439b238f980526c09
+  - enabled: 1
+    path: Assets/Scenes/Laberinto4.unity
+    guid: 6cc7d3fa74195ca41865769d41360a26
+  - enabled: 1
+    path: Assets/Scenes/Laberinto5.unity
+    guid: 628e7da2c470a824db88cf49ed53c08c
+  - enabled: 1
+    path: Assets/Scenes/Laberinto6.unity
+    guid: 719674759b7054144b511450f209c2de
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 767718afe6b2b6545b81b6f3ca76d710
+  - enabled: 0
+    path: Assets/Scenes/FinalDemo.unity
+    guid: cb2884fd633d98349a2cd5961d6d36e9
+  m_configObjects: {}
